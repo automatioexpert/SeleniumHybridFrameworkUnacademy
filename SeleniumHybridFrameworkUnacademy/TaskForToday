@@ -1,0 +1,13 @@
+Task 1
+Open ExcelReader class
+Complete getData method which return Object[][] array and this array contains data from excel sheet
+Please refer last class recording for same
+
+Task2
+In BrowserFactory class take timeouts from config file and use the same
+Note- Timeout will be coming in string format so before using convert into integer
+
+
+Task3
+1-Create DataProvider in CustomDataProvider class
+2-Use the same DataProvider in LoginTest
